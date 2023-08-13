@@ -1,5 +1,9 @@
 # stade_machine
 
+
+# Note: When I started developing this API sketch, I started writing 'State' as 'Stade'. Thanks for the copy paste. :) And it became the signature of my state machine API between us. That's why I didn't want to fix it. :)
+
+
 ASOS Stade Machine API and List API are suitable for Embedded Software design Patterns and other software frameworks.
 
 You can create your own Finite State machine (FSM) or Hierarchical State Machines (HSM) by useing this API.
